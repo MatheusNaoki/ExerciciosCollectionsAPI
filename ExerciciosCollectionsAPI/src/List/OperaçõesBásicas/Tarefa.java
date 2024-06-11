@@ -1,3 +1,4 @@
+package OperaçõesBásicas;
 public class Tarefa 
 {
     //atributo
